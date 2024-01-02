@@ -129,16 +129,6 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
-# Site Hero Image
-excerpt: "This post should be a hero image??"
-header:
-  overlay_image: /assets/images/shades-of-green-landscape-architecture_1552.jpg
-  overlay_filter: 0.5 #same as adding opacity 50% black to image
-  caption: "caption goes here"
-  actions:
-   # - label:
-   #   url:
-
 # Site Footer
 footer:
   links:
